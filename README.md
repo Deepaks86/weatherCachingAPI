@@ -1,4 +1,3 @@
-# weatherCachingAPI
 # Weather API Caching
 
 This repository contains two different weather API implementations with caching mechanisms:
